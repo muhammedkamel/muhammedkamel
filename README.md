@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Gists Badge](https://badges.pufler.dev/gists/muhammedkamel)](https://badges.pufler.dev)
 
 <p>
-  <img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=muhammedkamel&count_private=true&include_all_commits=true&hide=contrib=false&show_icons=true&cache_seconds=1801" alt="Mohamed Kamel's GitHub stats">
+  <img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=muhammedkamel&count_private=true&include_all_commits=true&hide=contrib=false&show_icons=true&cache_seconds=1000" alt="Mohamed Kamel's GitHub stats">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedkamel" alt="Mohamed Kamel's contributions" />
 </p>
 <p>
