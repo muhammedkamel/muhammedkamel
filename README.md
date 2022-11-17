@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Profile Visits](https://komarev.com/ghpvc/?username=muhammedkamel)
-![Most Active GitHub User Rank](https://en35x4dblo21xhl.m.pipedream.net)(https://commits.top/egypt.html)
+![Profile views](https://komarev.com/ghpvc/?username=muhammedkamel&color=green)
+
+![Most Active GitHub User Rank](https://en35x4dblo21xhl.m.pipedream.net)<!--(https://commits.top/egypt.html)-->
 ![Repos Badge](https://badges.pufler.dev/repos/muhammedkamel)<!-- (https://badges.pufler.dev) -->
 ![Gists Badge](https://badges.pufler.dev/gists/muhammedkamel)<!--(https://badges.pufler.dev) -->
 
