@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-**Mustafa-Kamel/Mustafa-Kamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**muhammedkamel/muhammedkamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Profile Visits](https://komarev.com/ghpvc/?username=muhammedkamel) <!-- [![Most Active GitHub User Rank](https://en35x4dblo21xhl.m.pipedream.net)](https://commits.top/egypt.html) --> 
-[![Repos Badge](https://badges.pufler.dev/repos/muhammedkamel)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/muhammedkamel)](https://badges.pufler.dev)
+
+![Profile Visits](https://komarev.com/ghpvc/?username=muhammedkamel)
+![Most Active GitHub User Rank](https://en35x4dblo21xhl.m.pipedream.net)(https://commits.top/egypt.html)
+![Repos Badge](https://badges.pufler.dev/repos/muhammedkamel)<!-- (https://badges.pufler.dev) -->
+![Gists Badge](https://badges.pufler.dev/gists/muhammedkamel)<!--(https://badges.pufler.dev) -->
 
 <p>
   <img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=muhammedkamel&count_private=true&include_all_commits=true&hide=contrib=false&show_icons=true&cache_seconds=3600" alt="Mohamed Kamel's GitHub stats">
