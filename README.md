@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm Mohamed Kamel, a Software Engineer. I have been in web development for over 6 years, during this period I have worked with PHP, Laravel, Nodejs, ExpressJs, Sailsjs, NestJs.
+I'm Mohamed Kamel, a Software Engineer. I have been in web development for over 6 years, during this period I have worked with Monolith, Modular Monolith, SOA, and Microservices archetictures using PHP, Laravel, Nodejs, ExpressJs, NestJs, Sailsjs.
 
 I enjoy working on new challenges and designing systems.
 
