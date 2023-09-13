@@ -21,7 +21,7 @@ You can check my articles on:-
 
 
 <p>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedkamel&layout=compact&exclude_repo=null&langs_count=10" alt="Mohamed Kamel's top languages">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedkamel&layout=compact&exclude_repo=FIX-IT&langs_count=10" alt="Mohamed Kamel's top languages">
 </p>
 
 
