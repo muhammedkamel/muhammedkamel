@@ -1,31 +1,23 @@
-<!--
-![](https://komarev.com/ghpvc/?username=muhammedkamel&color=green)
--->
+[![website badge](https://img.shields.io/badge/website-github.com-green?style=for-the-badge&logo=github)](https://github.com/muhammedkamel)
+[![linkedin badge](https://img.shields.io/badge/linkedin-@MohamedKamel93-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamedkamel93/)
+
+[![hashnode badge](https://img.shields.io/badge/hashnode-mohamedkamel.hashnode.dev-red?style=for-the-badge&logo=hashnode)](https://mohamedkamel.hashnode.dev/)
+[![medium badge](https://img.shields.io/badge/medium-@muhamed.kamel.elsayed-lightgrey?style=for-the-badge&logo=medium)](https://medium.com/@muhamed.kamel.elsayed)
+
 
 ### Hi there 👋
 
-I'm Mohamed Kamel, a Software Engineer. I have been in web development for over 6 years, during this period I have worked with Monolithic, Modular Monolithic, SOA, and Microservices architectures using PHP, Laravel, Nodejs, ExpressJs, NestJs, Sailsjs.
+I'm Mohamed Kamel, a seasoned Software Engineer with over 6 years of experience in web development. Throughout my career, I have successfully navigated various architectural styles including Monolithic, Modular Monolithic, SOA, and Microservices using popular technologies such as PHP, Laravel, Node.js, Express.js, and Nest.js.
 
-I enjoy working on new challenges and designing systems.
+I thrive on tackling new challenges and crafting innovative system designs.
 
-These are my opensource projects:-
+#### These are my contributions to opensource projects:-
+- [belongs-to-through](https://github.com/staudenmeir/belongs-to-through/pull/89)
 - [Doctrine ODM](https://github.com/muhammedkamel/lumen-doctrine-mongodb-odm)
 - [RabbitMQ](https://github.com/muhammedkamel/rabbitmq)
 
-These are my contributions to opensource projects:-
-- [belongs-to-through](https://github.com/staudenmeir/belongs-to-through/pull/89)
+---
 
-You can check my articles on:-
-- [Hashnode](https://mohamedkamel.hashnode.dev/)
-- [Medium](https://medium.com/@muhamed.kamel.elsayed)
+[![Kamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedkamel&hide=stars,issues&show_icons=true&count_private=true)](https://github.com/muhammedkamel/github-readme-stats)
 
-
-
-
-
-<p>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedkamel&layout=compact&exclude_repo=FIX-IT&langs_count=10" alt="Mohamed Kamel's top languages">
-</p>
-
-
-[LinkedIn](https://www.linkedin.com/in/mohamedkamel93/)
+![Kamel's GitHub 3D contribution diagram](./profile-3d-contrib/profile-green-animate.svg)
