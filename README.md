@@ -3,11 +3,11 @@
 
 [![hashnode badge](https://img.shields.io/badge/hashnode-mohamedkamel.hashnode.dev-red?style=for-the-badge&logo=hashnode)](https://mohamedkamel.hashnode.dev/)
 [![medium badge](https://img.shields.io/badge/medium-@muhamed.kamel.elsayed-lightgrey?style=for-the-badge&logo=medium)](https://medium.com/@muhamed.kamel.elsayed)
-
+[![stack overflow](https://img.shields.io/badge/stackoverflow-mohamed_kamel-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/3903019/mohamed-kamel)
 
 ### Hi there 👋
 
-I'm Mohamed Kamel, a seasoned Software Engineer with over 6 years of experience in web development. Throughout my career, I have successfully navigated various architectural styles including Monolithic, Modular Monolithic, SOA, and Microservices using popular technologies such as PHP, Laravel, Node.js, Express.js, and Nest.js.
+I'm Mohamed Kamel, a seasoned Software Engineer with over 7 years of experience in web development. Throughout my career, I have successfully navigated various architectural styles including Monolithic, Modular Monolithic, SOA, and Microservices using popular technologies such as PHP, Laravel, Node.js, Express.js, and Nest.js.
 
 I thrive on tackling new challenges and crafting innovative system designs.
 
