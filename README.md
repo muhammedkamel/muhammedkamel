@@ -1,6 +1,5 @@
 [![website badge](https://img.shields.io/badge/website-github.com-green?style=for-the-badge&logo=github)](https://github.com/muhammedkamel)
 [![linkedin badge](https://img.shields.io/badge/linkedin-@MohamedKamel93-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamedkamel93/)
-
 [![hashnode badge](https://img.shields.io/badge/hashnode-mohamedkamel.hashnode.dev-red?style=for-the-badge&logo=hashnode)](https://mohamedkamel.hashnode.dev/)
 [![medium badge](https://img.shields.io/badge/medium-@muhamed.kamel.elsayed-lightgrey?style=for-the-badge&logo=medium)](https://medium.com/@muhamed.kamel.elsayed)
 [![stack overflow](https://img.shields.io/badge/stackoverflow-mohamed_kamel-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/3903019/mohamed-kamel)
