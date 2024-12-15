@@ -17,6 +17,6 @@ I thrive on tackling new challenges and crafting innovative system designs.
 
 ---
 
-[![Kamel's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedkamel&hide=stars,issues&show_icons=true&count_private=true)](https://github.com/muhammedkamel/github-readme-stats)
+[![Kamel's GitHub stats](https://github-readme-stats-bay-ten-86.vercel.app/api?username=muhammedkamel&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)]
 
-![Kamel's GitHub 3D contribution diagram](./profile-3d-contrib/profile-green-animate.svg)
+![Top Langs](https://github-readme-stats-bay-ten-86.vercel.app/api/top-langs/?username=muhammedkamel&hide=html,css,coffeescript&layout=donut-vertical)
