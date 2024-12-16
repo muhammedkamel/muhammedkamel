@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I'm Mohamed Kamel, a seasoned Software Engineer with over 7 years of experience in web development. Throughout my career, I have successfully navigated various architectural styles including Monolithic, Modular Monolithic, SOA, and Microservices using popular technologies such as PHP, Laravel, Node.js, Express.js, and Nest.js.
+I'm Mohamed Kamel, a seasoned Software Engineer with over 8 years of experience in web development. Throughout my career, I have successfully navigated various architectural styles including Monolithic, Modular Monolithic, SOA, and Microservices using popular technologies such as PHP, Laravel, Node.js, Express.js, and Nest.js.
 
 I thrive on tackling new challenges and crafting innovative system designs.
 
