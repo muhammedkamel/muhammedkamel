@@ -11,6 +11,7 @@ I'm Mohamed Kamel, a seasoned Software Engineer with over 8 years of experience 
 I thrive on tackling new challenges and crafting innovative system designs.
 
 #### These are my contributions to opensource projects:-
+- [Mongoose Plugin](https://github.com/muhammedkamel/mongoose-collection-naming-plugin)
 - [belongs-to-through](https://github.com/staudenmeir/belongs-to-through/pull/89)
 - [Doctrine ODM](https://github.com/muhammedkamel/lumen-doctrine-mongodb-odm)
 - [RabbitMQ](https://github.com/muhammedkamel/rabbitmq)
