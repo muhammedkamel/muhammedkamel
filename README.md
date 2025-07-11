@@ -11,10 +11,13 @@ I'm Mohamed Kamel, a seasoned Software Engineer with over 8 years of experience 
 I thrive on tackling new challenges and crafting innovative system designs.
 
 #### These are my contributions to opensource projects:-
-- [Mongoose Plugin](https://github.com/muhammedkamel/mongoose-collection-naming-plugin)
-- [belongs-to-through](https://github.com/staudenmeir/belongs-to-through/pull/89)
-- [Doctrine ODM](https://github.com/muhammedkamel/lumen-doctrine-mongodb-odm)
-- [RabbitMQ](https://github.com/muhammedkamel/rabbitmq)
+
+| Project | Downloads |
+|---------|-----------|
+| [Mongoose Plugin](https://github.com/muhammedkamel/mongoose-collection-naming-plugin) | [![Mongoose Plugin Downloads](https://img.shields.io/npm/dt/mongoose-collection-naming-plugin?style=for-the-badge)](https://www.npmjs.com/package/mongoose-collection-naming-plugin) |
+| ⭐ **[belongs-to-through](https://github.com/staudenmeir/belongs-to-through/pull/89)** | [![belongs-to-through Downloads](https://img.shields.io/packagist/dt/staudenmeir/belongs-to-through?style=for-the-badge)](https://packagist.org/packages/staudenmeir/belongs-to-through) |
+| ⭐ **[Doctrine ODM](https://github.com/muhammedkamel/lumen-doctrine-mongodb-odm)** | [![Doctrine ODM Downloads](https://img.shields.io/packagist/dt/muhammedkamel/lumen-doctrine-mongodb-odm?style=for-the-badge)](https://packagist.org/packages/muhammedkamel/lumen-doctrine-mongodb-odm) |
+| [RabbitMQ](https://github.com/muhammedkamel/rabbitmq) | [![RabbitMQ Downloads](https://img.shields.io/packagist/dt/almatar/rabbitmq?style=for-the-badge)](https://packagist.org/packages/almatar/rabbitmq) |
 
 ---
 
