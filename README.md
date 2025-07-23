@@ -1,10 +1,10 @@
+# Hi there 👋
+
 [![website badge](https://img.shields.io/badge/website-github.com-green?style=for-the-badge&logo=github)](https://github.com/muhammedkamel)
 [![linkedin badge](https://img.shields.io/badge/linkedin-@MohamedKamel93-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamedkamel93/)
 [![hashnode badge](https://img.shields.io/badge/hashnode-mohamedkamel.hashnode.dev-red?style=for-the-badge&logo=hashnode)](https://mohamedkamel.hashnode.dev/)
 [![medium badge](https://img.shields.io/badge/medium-@muhamed.kamel.elsayed-lightgrey?style=for-the-badge&logo=medium)](https://medium.com/@muhamed.kamel.elsayed)
 [![stack overflow](https://img.shields.io/badge/stackoverflow-mohamed_kamel-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/3903019/mohamed-kamel)
-
-### Hi there 👋
 
 I'm Mohamed Kamel, a seasoned Software Engineer with over 8 years of experience in web development. Throughout my career, I have successfully navigated various architectural styles including Monolithic, Modular Monolithic, SOA, and Microservices using popular technologies such as Javascript, Typescript, PHP, Laravel, Node.js, Express.js, and Nest.js.
 
@@ -14,7 +14,7 @@ I thrive on tackling new challenges and crafting innovative system designs.
 
 | Project | Downloads |
 |---------|-----------|
-| [Mongoose Plugin](https://github.com/muhammedkamel/mongoose-collection-naming-plugin) | [![Mongoose Plugin Downloads](https://img.shields.io/npm/dt/mongoose-collection-naming-plugin?style=for-the-badge)](https://www.npmjs.com/package/mongoose-collection-naming-plugin) |
+| ⭐ **[Mongoose Plugin](https://github.com/muhammedkamel/mongoose-collection-naming-plugin)** | [![Mongoose Plugin Downloads](https://img.shields.io/npm/dt/mongoose-collection-naming-plugin?style=for-the-badge)](https://www.npmjs.com/package/mongoose-collection-naming-plugin) |
 | ⭐ **[belongs-to-through](https://github.com/staudenmeir/belongs-to-through/pull/89)** | [![belongs-to-through Downloads](https://img.shields.io/packagist/dt/staudenmeir/belongs-to-through?style=for-the-badge)](https://packagist.org/packages/staudenmeir/belongs-to-through) |
 | ⭐ **[Doctrine ODM](https://github.com/muhammedkamel/lumen-doctrine-mongodb-odm)** | [![Doctrine ODM Downloads](https://img.shields.io/packagist/dt/muhammedkamel/lumen-doctrine-mongodb-odm?style=for-the-badge)](https://packagist.org/packages/muhammedkamel/lumen-doctrine-mongodb-odm) |
 | [RabbitMQ](https://github.com/muhammedkamel/rabbitmq) | [![RabbitMQ Downloads](https://img.shields.io/packagist/dt/almatar/rabbitmq?style=for-the-badge)](https://packagist.org/packages/almatar/rabbitmq) |
