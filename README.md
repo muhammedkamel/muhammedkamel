@@ -20,6 +20,7 @@ I thrive on tackling new challenges and crafting innovative system designs.
 ![Top Langs](https://github-readme-stats-bay-ten-86.vercel.app/api/top-langs/?username=muhammedkamel&hide=html,css,coffeescript&layout=donut-vertical)
 
 ---
-[![linkedin badge](https://img.shields.io/badge/linkedin-@MohamedKamel93-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamedkamel93/)
-[![hashnode badge](https://img.shields.io/badge/hashnode-mohamedkamel.hashnode.dev-red?style=for-the-badge&logo=hashnode)](https://mohamedkamel.hashnode.dev/)
-[![medium badge](https://img.shields.io/badge/medium-@muhamed.kamel.elsayed-lightgrey?style=for-the-badge&logo=medium)](https://medium.com/@muhamed.kamel.elsayed)
+
+[![linkedin badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamedkamel93/)
+[![hashnode badge](https://img.shields.io/badge/Hashnode-red?style=for-the-badge&logo=hashnode)](https://mohamedkamel.hashnode.dev/)
+[![medium badge](https://img.shields.io/badge/Medium-lightgrey?style=for-the-badge&logo=medium)](https://medium.com/@muhamed.kamel.elsayed)
