@@ -12,7 +12,7 @@ I thrive on tackling new challenges and crafting innovative system designs.
 | ⭐ **[Mongoose Plugin](https://github.com/muhammedkamel/mongoose-collection-naming-plugin)** | [![Mongoose Plugin Downloads](https://img.shields.io/npm/dt/mongoose-collection-naming-plugin?style=for-the-badge)](https://www.npmjs.com/package/mongoose-collection-naming-plugin) |
 | ⭐ **[belongs-to-through](https://github.com/staudenmeir/belongs-to-through/pull/89)** | [![belongs-to-through Downloads](https://img.shields.io/packagist/dt/staudenmeir/belongs-to-through?style=for-the-badge)](https://packagist.org/packages/staudenmeir/belongs-to-through) |
 | ⭐ **[Doctrine ODM](https://github.com/muhammedkamel/lumen-doctrine-mongodb-odm)** | [![Doctrine ODM Downloads](https://img.shields.io/packagist/dt/muhammedkamel/lumen-doctrine-mongodb-odm?style=for-the-badge)](https://packagist.org/packages/muhammedkamel/lumen-doctrine-mongodb-odm) |
-| [RabbitMQ](https://github.com/muhammedkamel/rabbitmq) | [![RabbitMQ Downloads](https://img.shields.io/packagist/dt/almatar/rabbitmq?style=for-the-badge)](https://packagist.org/packages/almatar/rabbitmq) |
+| [RabbitMQ](https://github.com/muhammedkamel/rabbitmq) | [![RabbitMQ Downloads](https://img.shields.io/packagist/dt/almatar/rabbitmq?style=for-the-badge)](https://packagist.org/packages/almatar/rabbitmq) [![Deprecated](https://img.shields.io/badge/Status-Deprecated-red?style=for-the-badge)](https://github.com/muhammedkamel/rabbitmq) |
 
 ---
 
