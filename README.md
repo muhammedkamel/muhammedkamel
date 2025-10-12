@@ -6,7 +6,7 @@
 
 I specialize in architecting and building scalable, production-ready applications using Node.js/ExpressJs, Typescript/NestJS, and PHP/Laravel. From monoliths to microservices, I love tackling complex system design challenges.
 
-## These are my contributions to open source projects:-
+## 🔥 Open Source Contributions
 
 | Project | Downloads |
 |---------|-----------|
