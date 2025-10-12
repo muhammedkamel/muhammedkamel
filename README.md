@@ -6,6 +6,27 @@
 
 I specialize in architecting and building scalable, production-ready applications using Node.js/ExpressJs, Typescript/NestJS, and PHP/Laravel. From monoliths to microservices, I love tackling complex system design challenges.
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,php,express,nestjs,laravel" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,rabbitmq,gcp,aws,docker" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-5849BE?style=for-the-badge&logo=microservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event--Driven-FF6B6B?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Domain--Driven_Design-0078D4?style=for-the-badge&logo=readme&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOA-00758F?style=for-the-badge&logo=architecture&logoColor=white" />
+</p>
+
 ## 🔥 Open Source Contributions
 
 ### 🌟 My Packages
