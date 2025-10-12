@@ -1,8 +1,10 @@
-# Hi there 👋
+# Hi there 👋 I'm Mohamed Kamel
 
-I'm Mohamed Kamel, a seasoned Software Engineer with over 8 years of experience in web development. Throughout my career, I have successfully navigated various architectural styles including Monolithic, Modular Monolithic, SOA, and Microservices using popular technologies such as Javascript, Typescript, PHP, Laravel, Node.js, Express.js, and Nest.js.
+🚀 Senior Software Engineer with 8+ years building scalable systems  
+💡 Passionate about distributed systems, microservices, and clean architecture  
+🌍 Contributing to open source | Writing technical content
 
-I thrive on tackling new challenges and crafting innovative system designs.
+I specialize in architecting and building scalable, production-ready applications using Node.js/ExpressJs, Typescript/NestJS, and PHP/Laravel. From monoliths to microservices, I love tackling complex system design challenges.
 
 ## These are my contributions to open source projects:-
 
