@@ -35,7 +35,7 @@ I specialize in architecting and building scalable, production-ready application
 |---------|-------------|-----------|
 | ⭐&nbsp;**[Mongoose&nbsp;Plugin](https://github.com/muhammedkamel/mongoose-collection-naming-plugin)** | Auto-naming plugin for MongoDB collections with custom patterns | [![Mongoose Plugin Downloads](https://img.shields.io/npm/dt/mongoose-collection-naming-plugin?style=for-the-badge)](https://www.npmjs.com/package/mongoose-collection-naming-plugin) |
 | ⭐&nbsp;**[Doctrine&nbsp;ODM](https://github.com/muhammedkamel/lumen-doctrine-mongodb-odm)** | MongoDB ODM integration for Lumen framework | [![Doctrine ODM Downloads](https://img.shields.io/packagist/dt/muhammedkamel/lumen-doctrine-mongodb-odm?style=for-the-badge)](https://packagist.org/packages/muhammedkamel/lumen-doctrine-mongodb-odm) |
-| [RabbitMQ](https://github.com/muhammedkamel/rabbitmq) | Message queue integration for Laravel applications *(Deprecated)* | [![RabbitMQ Downloads](https://img.shields.io/packagist/dt/almatar/rabbitmq?style=for-the-badge)](https://packagist.org/packages/almatar/rabbitmq) [![Deprecated](https://img.shields.io/badge/Status-Deprecated-red?style=for-the-badge)](https://github.com/muhammedkamel/rabbitmq) |
+| 🔒&nbsp;~~**[RabbitMQ](https://github.com/muhammedkamel/rabbitmq)**~~ | Message queue integration for Laravel applications *(Archived - No longer maintained)* | [![RabbitMQ Downloads](https://img.shields.io/packagist/dt/almatar/rabbitmq?style=for-the-badge)](https://packagist.org/packages/almatar/rabbitmq) |
 
 ### 🤝 Contributions to Popular Projects
 
