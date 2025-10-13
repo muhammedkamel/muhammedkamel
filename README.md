@@ -44,11 +44,15 @@ I specialize in architecting and building scalable, production-ready application
 | ⭐ **[NestJS Google Pub/Sub](https://github.com/p-fedyukovich/nestjs-google-pubsub-microservice/pull/55)** | Event-driven microservices integration with Google Cloud Pub/Sub | [![NestJS Google Pub/Sub](https://img.shields.io/npm/dt/nestjs-google-pubsub-microservice?style=for-the-badge)](https://www.npmjs.com/package/nestjs-google-pubsub-microservice) |
 | ⭐ **[belongs-to-through](https://github.com/staudenmeir/belongs-to-through/pull/89)** | Laravel Eloquent relationship extension for complex associations | [![belongs-to-through Downloads](https://img.shields.io/packagist/dt/staudenmeir/belongs-to-through?style=for-the-badge)](https://packagist.org/packages/staudenmeir/belongs-to-through) |
 
----
+## 📊 GitHub Stats
 
-![Kamel's GitHub stats](https://github-readme-stats-bay-ten-86.vercel.app/api?username=muhammedkamel&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=muhammedkamel&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Top Langs](https://github-readme-stats-bay-ten-86.vercel.app/api/top-langs/?username=muhammedkamel&hide=html,css,coffeescript&layout=donut-vertical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedkamel&hide=html,css,scss,coffeescript,tex&layout=compact&theme=radical&hide_border=true&langs_count=6&include_all_commits=true&exclude_repo=muhammedkamel" alt="Top Languages" />
+</p>
 
 ---
 
