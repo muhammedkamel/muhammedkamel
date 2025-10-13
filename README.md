@@ -47,11 +47,11 @@ I specialize in architecting and building scalable, production-ready application
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=muhammedkamel&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=muhammedkamel&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedkamel&hide=html,css,scss,coffeescript,tex&layout=compact&theme=radical&hide_border=true&langs_count=6&include_all_commits=true&exclude_repo=muhammedkamel" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedkamel&hide=html,css,scss,coffeescript,tex&layout=compact&theme=default&hide_border=true&langs_count=6&include_all_commits=true&exclude_repo=muhammedkamel" alt="Top Languages" />
 </p>
 
 ---
