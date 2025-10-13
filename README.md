@@ -33,16 +33,16 @@ I specialize in architecting and building scalable, production-ready application
 
 | Project | Description | Downloads |
 |---------|-------------|-----------|
-| ⭐ **[Mongoose Plugin](https://github.com/muhammedkamel/mongoose-collection-naming-plugin)** | Auto-naming plugin for MongoDB collections with custom patterns | [![Mongoose Plugin Downloads](https://img.shields.io/npm/dt/mongoose-collection-naming-plugin?style=for-the-badge)](https://www.npmjs.com/package/mongoose-collection-naming-plugin) |
-| ⭐ **[Doctrine ODM](https://github.com/muhammedkamel/lumen-doctrine-mongodb-odm)** | MongoDB ODM integration for Lumen framework | [![Doctrine ODM Downloads](https://img.shields.io/packagist/dt/muhammedkamel/lumen-doctrine-mongodb-odm?style=for-the-badge)](https://packagist.org/packages/muhammedkamel/lumen-doctrine-mongodb-odm) |
+| ⭐&nbsp;**[Mongoose&nbsp;Plugin](https://github.com/muhammedkamel/mongoose-collection-naming-plugin)** | Auto-naming plugin for MongoDB collections with custom patterns | [![Mongoose Plugin Downloads](https://img.shields.io/npm/dt/mongoose-collection-naming-plugin?style=for-the-badge)](https://www.npmjs.com/package/mongoose-collection-naming-plugin) |
+| ⭐&nbsp;**[Doctrine&nbsp;ODM](https://github.com/muhammedkamel/lumen-doctrine-mongodb-odm)** | MongoDB ODM integration for Lumen framework | [![Doctrine ODM Downloads](https://img.shields.io/packagist/dt/muhammedkamel/lumen-doctrine-mongodb-odm?style=for-the-badge)](https://packagist.org/packages/muhammedkamel/lumen-doctrine-mongodb-odm) |
 | [RabbitMQ](https://github.com/muhammedkamel/rabbitmq) | Message queue integration for Laravel applications *(Deprecated)* | [![RabbitMQ Downloads](https://img.shields.io/packagist/dt/almatar/rabbitmq?style=for-the-badge)](https://packagist.org/packages/almatar/rabbitmq) [![Deprecated](https://img.shields.io/badge/Status-Deprecated-red?style=for-the-badge)](https://github.com/muhammedkamel/rabbitmq) |
 
 ### 🤝 Contributions to Popular Projects
 
 | Project | Description | Downloads |
 |---------|-------------|-----------|
-| ⭐ **[NestJS Google Pub/Sub](https://github.com/p-fedyukovich/nestjs-google-pubsub-microservice/pull/55)** | Event-driven microservices integration with Google Cloud Pub/Sub | [![NestJS Google Pub/Sub](https://img.shields.io/npm/dt/nestjs-google-pubsub-microservice?style=for-the-badge)](https://www.npmjs.com/package/nestjs-google-pubsub-microservice) |
-| ⭐ **[belongs-to-through](https://github.com/staudenmeir/belongs-to-through/pull/89)** | Laravel Eloquent relationship extension for complex associations | [![belongs-to-through Downloads](https://img.shields.io/packagist/dt/staudenmeir/belongs-to-through?style=for-the-badge)](https://packagist.org/packages/staudenmeir/belongs-to-through) |
+| ⭐&nbsp;**[NestJS&nbsp;Google&nbsp;Pub/Sub](https://github.com/p-fedyukovich/nestjs-google-pubsub-microservice/pull/55)** | Event-driven microservices integration with Google Cloud Pub/Sub | [![NestJS Google Pub/Sub](https://img.shields.io/npm/dt/nestjs-google-pubsub-microservice?style=for-the-badge)](https://www.npmjs.com/package/nestjs-google-pubsub-microservice) |
+| ⭐&nbsp;**[belongs-to-through](https://github.com/staudenmeir/belongs-to-through/pull/89)** | Laravel Eloquent relationship extension for complex associations | [![belongs-to-through Downloads](https://img.shields.io/packagist/dt/staudenmeir/belongs-to-through?style=for-the-badge)](https://packagist.org/packages/staudenmeir/belongs-to-through) |
 
 ## 📊 GitHub Stats
 
