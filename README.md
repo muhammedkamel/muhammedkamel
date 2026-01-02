@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mohamed Kamel
 
-🚀 Senior Software Engineer with 8+ years building scalable systems  
+🚀 Senior Software Engineer with 9+ years building scalable systems  
 💡 Passionate about distributed systems, microservices, and clean architecture  
 🌍 Contributing to open source | Writing technical content
 
